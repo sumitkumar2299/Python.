@@ -139,3 +139,7 @@ print(type(True))
 
 # true == 1 and false == 0
 print(True+4);
+
+print(round(0.6));
+print(round(0.5));
+print(round(-0.5));

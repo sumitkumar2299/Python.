@@ -6,6 +6,7 @@ print(tea_varities[-1]);
 print(tea_varities[1:3]);
 print(tea_varities[:2]);
 print(tea_varities[2:]);
+print(len(tea_varities));
 
 tea_varities[3] = "herbal";
 print(tea_varities);
